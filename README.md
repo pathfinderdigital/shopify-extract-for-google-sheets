@@ -1,0 +1,1 @@
+# shopify-extract-for-google-sheets
